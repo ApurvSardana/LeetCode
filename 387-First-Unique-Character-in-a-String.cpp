@@ -1,23 +1,28 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        unordered_map <char, int> m;
+        queue<pair<char, int>> q;
+        unordered_map<char, int> m;
+        int len = s.length();
 
-        for(int i = 0; i < s.length(); i++)
+        for(int i = 0; i < len; i++)
         {
-            if(m.find(s[i]) != m.end())
+            if(m.find(s[i]) == m.end())
             {
-                m[s[i]] ++;
+                q.push({s[i], i});
+                m[s[i]] = 1;
             }
 
             else
-            m[s[i]] = 1;
+            m[s[i]]++;
         }
 
-        for(int i = 0; i < s.length(); i++)
+        while(!q.empty())
         {
-            if(m[s[i]] == 1)
-            return i;
+            if(m[q.front().first] == 1)
+            return q.front().second;
+
+            q.pop();
         }
 
         return -1;
