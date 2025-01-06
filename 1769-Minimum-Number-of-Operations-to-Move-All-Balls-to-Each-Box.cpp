@@ -2,22 +2,42 @@ class Solution {
 public:
     vector<int> minOperations(string boxes) {
         int n = boxes.length();
+        vector<int> previous(n, 0);
+        vector<int> next(n, 0);
+
         vector<int> answer(n, 0);
+
+        int sum = 0;
+        int count = 0;
 
         for(int i = 0; i < n; i++)
         {
-            for(int j = 0; j < i; j++)
-            {
-                if(boxes[j] == '1')
-                    answer[i] += (i - j);
-            }
+            previous[i] = i*(i - count) - sum;
 
-            for(int j = i + 1; j < n; j++)
+            if(boxes[i] == '1')
+                sum += i;
+            
+            else
+                count++;
+        
+        }
+
+        sum = 0;
+        count = 0;
+
+        for(int i = n - 1; i >= 0; i--)
+        {
+            next[i] = sum - (count)*i;
+            if(boxes[i] == '1')
             {
-                if(boxes[j] == '1')
-                    answer[i] += (j - i);
+                sum += i;
+                count++;
             }
         }
+
+        for(int i = 0; i < n; i++)
+            answer[i] = previous[i] + next[i];
+        
         return answer;
     }
 };
