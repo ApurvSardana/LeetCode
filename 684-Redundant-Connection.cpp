@@ -1,52 +1,37 @@
 class Solution {
 public:
-    int arr[1001];
-
-    Solution() {
-    fill(begin(arr), end(arr), -1);
-}
-
-    int find(int x)
-    {
-        if(arr[x] >= 0)
-            return arr[x] = find(arr[x]);
+    int find(int x, vector<int> &parent){
+        if(parent[x] > 0)
+            return parent[x] = find(parent[x], parent);
+        
         return x;
     }
+    bool unions(int a, int b, vector<int> &parent){
+        a = find(a, parent);
+        b = find(b, parent);
 
-    bool unions(int a, int b)
-    {
-        int pa = find(a);
-        int pb = find(b);
-
-        if(pa == pb)
+        if(a == b)
             return false;
         
-        int ra = -arr[pa];
-        int rb = -arr[pb];
-
-        if(ra > rb)
-            arr[pb] = pa;
+        if(parent[a] < parent[b])
+            parent[b] = a;
         
-        else if(rb > ra)
-            arr[pa] = pb;
+        else if(parent[b] < parent[a])
+            parent[a] = b;
         
-        else
-        {
-            arr[pa] = pb;
-            arr[pb] -= 1;
+        else{
+            parent[b] = a;
+            parent[a]--;
         }
-
         return true;
-
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        vector<int> ans;
+        int n = edges.size();
+        vector<int> parent(n+1, -1);
 
-        for(auto p : edges)
-        {
-            if(unions(p[0], p[1]) == false)
-                ans = p;
-        }
-        return ans;
+        for(auto edge : edges)
+            if(!unions(edge[0], edge[1], parent))
+                return edge;
+        return {};
     }
 };
