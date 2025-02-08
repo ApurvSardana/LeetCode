@@ -7,16 +7,19 @@ public:
     }
     
     void change(int index, int number) {
-        
-        if(itn.find(index) != itn.end()){
+        if(itn.find(index) == itn.end()){
+            itn[index] = number;
+            nti[number].insert(index);
+        }
+
+        else{
             int prev = itn[index];
             nti[prev].erase(index);
                 if(nti[prev].empty())
                     nti.erase(prev);
             itn[index] = number;
+            nti[number].insert(index);
         }
-        itn[index] = number;
-        nti[number].insert(index);
     }
     
     int find(int number) {
