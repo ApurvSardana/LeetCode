@@ -2,24 +2,17 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin(), nums.end());
-        unique(nums.begin(), nums.end());
 
-        int i = 0;
-        while(i < n && nums[i] <= 0)
-            i++;
+        vector<int> freq(100001, 0);
+
+        for(int i : nums)
+            if(i >= 1 && i <= 100000)
+                freq[i]++;
         
-        int j = 1;
-        while(i < n){
-            if(nums[i] != j)
-                return j;
-            
-            else{
-                i++;
-                j++;
-            }
-        }
-
-        return j;
+        for(int i = 1; i <= 100000; i++)
+            if(freq[i] == 0)
+                return i;
+        
+        return 100001;
     }
 };
