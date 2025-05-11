@@ -33,7 +33,7 @@ public:
 
         for(int i = 0; i < n; i++)
             if(!dp[i][k].empty())
-                ans = max(ans, *max_element(dp[i][k].begin(), dp[i][k].end()));
+                ans = max(ans, *dp[i][k].rbegin());
         
         return ans == INT_MIN ? -1 : ans;
     }
