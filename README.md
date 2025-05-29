@@ -22,6 +22,7 @@ Happy Coding !!
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Dynamic Programming
 |  |
@@ -43,4 +44,12 @@ Happy Coding !!
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
