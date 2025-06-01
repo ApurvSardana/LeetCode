@@ -50,6 +50,7 @@ Happy Coding !!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ApurvSardana/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
 ## Matrix
@@ -61,4 +62,8 @@ Happy Coding !!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/ApurvSardana/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
