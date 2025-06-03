@@ -25,6 +25,7 @@ Happy Coding !!
 | ------- |
 | [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Dynamic Programming
 |  |
@@ -53,12 +54,14 @@ Happy Coding !!
 | [0031-next-permutation](https://github.com/ApurvSardana/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/ApurvSardana/LeetCode/tree/master/0135-candy) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
