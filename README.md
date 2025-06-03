@@ -95,4 +95,12 @@ Happy Coding !!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ApurvSardana/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ApurvSardana/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
