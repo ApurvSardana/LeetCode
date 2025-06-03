@@ -54,6 +54,7 @@ Happy Coding !!
 | [0031-next-permutation](https://github.com/ApurvSardana/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
+| [0056-merge-intervals](https://github.com/ApurvSardana/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/ApurvSardana/LeetCode/tree/master/0135-candy) |
 ## Matrix
@@ -74,4 +75,8 @@ Happy Coding !!
 |  |
 | ------- |
 | [0135-candy](https://github.com/ApurvSardana/LeetCode/tree/master/0135-candy) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ApurvSardana/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
