@@ -27,6 +27,7 @@ Happy Coding !!
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0135-candy](https://github.com/ApurvSardana/LeetCode/tree/master/0135-candy) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sorting
 |  |
 | ------- |
@@ -129,8 +131,13 @@ Happy Coding !!
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ApurvSardana/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Union Find
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ApurvSardana/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Stack
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
