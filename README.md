@@ -80,6 +80,7 @@ Happy Coding !!
 | ------- |
 | [0031-next-permutation](https://github.com/ApurvSardana/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ApurvSardana/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
@@ -111,6 +112,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ApurvSardana/LeetCode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +146,7 @@ Happy Coding !!
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
@@ -157,6 +160,7 @@ Happy Coding !!
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
