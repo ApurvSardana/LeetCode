@@ -30,6 +30,7 @@ Happy Coding !!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ApurvSardana/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ApurvSardana/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Happy Coding !!
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ApurvSardana/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ApurvSardana/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
 | ------- |
