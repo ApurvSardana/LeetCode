@@ -83,6 +83,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ApurvSardana/LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/ApurvSardana/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ApurvSardana/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -169,6 +170,7 @@ Happy Coding !!
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ApurvSardana/LeetCode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0908-middle-of-the-linked-list) |
