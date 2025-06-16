@@ -27,6 +27,7 @@ Happy Coding !!
 | [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/ApurvSardana/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -174,6 +175,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ApurvSardana/LeetCode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ApurvSardana/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0908-middle-of-the-linked-list) |
