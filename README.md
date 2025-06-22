@@ -156,6 +156,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ApurvSardana/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ApurvSardana/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ApurvSardana/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -185,4 +186,8 @@ Happy Coding !!
 | [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ApurvSardana/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
