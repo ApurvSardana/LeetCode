@@ -130,6 +130,7 @@ Happy Coding !!
 | ------- |
 | [0050-powx-n](https://github.com/ApurvSardana/LeetCode/tree/master/0050-powx-n) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ApurvSardana/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Recursion
 |  |
@@ -195,4 +196,8 @@ Happy Coding !!
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ApurvSardana/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
