@@ -70,6 +70,7 @@ Happy Coding !!
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ApurvSardana/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
+| [0907-koko-eating-bananas](https://github.com/ApurvSardana/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ApurvSardana/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ApurvSardana/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -123,6 +124,7 @@ Happy Coding !!
 | [0074-search-a-2d-matrix](https://github.com/ApurvSardana/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
+| [0907-koko-eating-bananas](https://github.com/ApurvSardana/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
