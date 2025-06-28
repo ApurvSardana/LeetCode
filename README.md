@@ -29,6 +29,7 @@ Happy Coding !!
 | [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/ApurvSardana/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ApurvSardana/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ApurvSardana/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -79,6 +80,7 @@ Happy Coding !!
 | [0907-koko-eating-bananas](https://github.com/ApurvSardana/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ApurvSardana/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ApurvSardana/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ApurvSardana/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ApurvSardana/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -128,6 +130,7 @@ Happy Coding !!
 | ------- |
 | [0056-merge-intervals](https://github.com/ApurvSardana/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ApurvSardana/LeetCode/tree/master/0088-merge-sorted-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ApurvSardana/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ApurvSardana/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ApurvSardana/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ApurvSardana/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -201,6 +204,7 @@ Happy Coding !!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ApurvSardana/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
