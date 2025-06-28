@@ -68,6 +68,7 @@ Happy Coding !!
 | [0036-valid-sudoku](https://github.com/ApurvSardana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ApurvSardana/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ApurvSardana/LeetCode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/ApurvSardana/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ApurvSardana/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -99,6 +100,7 @@ Happy Coding !!
 | ------- |
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ApurvSardana/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ApurvSardana/LeetCode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ApurvSardana/LeetCode/tree/master/0216-combination-sum-iii) |
