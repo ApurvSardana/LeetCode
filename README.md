@@ -108,6 +108,7 @@ Happy Coding !!
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ApurvSardana/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ApurvSardana/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ApurvSardana/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ApurvSardana/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -189,6 +190,7 @@ Happy Coding !!
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ApurvSardana/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ApurvSardana/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ApurvSardana/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -234,4 +236,8 @@ Happy Coding !!
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ApurvSardana/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ApurvSardana/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
