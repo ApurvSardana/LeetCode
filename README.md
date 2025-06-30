@@ -39,6 +39,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0343-integer-break](https://github.com/ApurvSardana/LeetCode/tree/master/0343-integer-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ApurvSardana/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3654-minimum-array-sum](https://github.com/ApurvSardana/LeetCode/tree/master/3654-minimum-array-sum) |
@@ -168,6 +169,7 @@ Happy Coding !!
 | ------- |
 | [0050-powx-n](https://github.com/ApurvSardana/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ApurvSardana/LeetCode/tree/master/0060-permutation-sequence) |
+| [0343-integer-break](https://github.com/ApurvSardana/LeetCode/tree/master/0343-integer-break) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ApurvSardana/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
