@@ -189,6 +189,7 @@ Happy Coding !!
 | [0050-powx-n](https://github.com/ApurvSardana/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ApurvSardana/LeetCode/tree/master/0060-permutation-sequence) |
 | [0343-integer-break](https://github.com/ApurvSardana/LeetCode/tree/master/0343-integer-break) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ApurvSardana/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -263,6 +264,7 @@ Happy Coding !!
 | [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Simulation
 |  |
 | ------- |
