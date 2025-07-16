@@ -108,6 +108,7 @@ Happy Coding !!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ApurvSardana/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ApurvSardana/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2625-increment-submatrices-by-one](https://github.com/ApurvSardana/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ApurvSardana/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ApurvSardana/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -120,6 +121,7 @@ Happy Coding !!
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ApurvSardana/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [2625-increment-submatrices-by-one](https://github.com/ApurvSardana/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Backtracking
 |  |
 | ------- |
@@ -289,4 +291,8 @@ Happy Coding !!
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ApurvSardana/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/ApurvSardana/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
