@@ -228,6 +228,7 @@ Happy Coding !!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ApurvSardana/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ApurvSardana/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ApurvSardana/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
