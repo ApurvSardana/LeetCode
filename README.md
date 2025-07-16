@@ -52,6 +52,7 @@ Happy Coding !!
 | [2340-total-appeal-of-a-string](https://github.com/ApurvSardana/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ApurvSardana/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ApurvSardana/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ApurvSardana/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3654-minimum-array-sum](https://github.com/ApurvSardana/LeetCode/tree/master/3654-minimum-array-sum) |
 ## Graph
 |  |
@@ -109,6 +110,7 @@ Happy Coding !!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ApurvSardana/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ApurvSardana/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ApurvSardana/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3654-minimum-array-sum](https://github.com/ApurvSardana/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ApurvSardana/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Matrix
