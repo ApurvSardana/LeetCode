@@ -13,6 +13,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ApurvSardana/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ApurvSardana/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ApurvSardana/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ApurvSardana/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -103,6 +104,7 @@ Happy Coding !!
 | [0594-longest-harmonious-subsequence](https://github.com/ApurvSardana/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/ApurvSardana/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0907-koko-eating-bananas](https://github.com/ApurvSardana/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ApurvSardana/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ApurvSardana/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ApurvSardana/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -239,6 +241,7 @@ Happy Coding !!
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0692-top-k-frequent-words](https://github.com/ApurvSardana/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ApurvSardana/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ApurvSardana/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ApurvSardana/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ApurvSardana/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2340-total-appeal-of-a-string](https://github.com/ApurvSardana/LeetCode/tree/master/2340-total-appeal-of-a-string) |
@@ -270,6 +273,7 @@ Happy Coding !!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/ApurvSardana/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ApurvSardana/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Linked List
 |  |
 | ------- |
