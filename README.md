@@ -7,6 +7,7 @@ Happy Coding !!
 ## Tree
 |  |
 | ------- |
+| [0772-construct-quad-tree](https://github.com/ApurvSardana/LeetCode/tree/master/0772-construct-quad-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ApurvSardana/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -103,6 +104,7 @@ Happy Coding !!
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
 | [0594-longest-harmonious-subsequence](https://github.com/ApurvSardana/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/ApurvSardana/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0772-construct-quad-tree](https://github.com/ApurvSardana/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0907-koko-eating-bananas](https://github.com/ApurvSardana/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ApurvSardana/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -128,6 +130,7 @@ Happy Coding !!
 | [0037-sudoku-solver](https://github.com/ApurvSardana/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ApurvSardana/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0772-construct-quad-tree](https://github.com/ApurvSardana/LeetCode/tree/master/0772-construct-quad-tree) |
 | [2625-increment-submatrices-by-one](https://github.com/ApurvSardana/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Backtracking
 |  |
@@ -217,6 +220,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
+| [0772-construct-quad-tree](https://github.com/ApurvSardana/LeetCode/tree/master/0772-construct-quad-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
