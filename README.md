@@ -52,6 +52,7 @@ Happy Coding !!
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/ApurvSardana/LeetCode/tree/master/0343-integer-break) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ApurvSardana/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ApurvSardana/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -109,6 +110,7 @@ Happy Coding !!
 | [0692-top-k-frequent-words](https://github.com/ApurvSardana/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0772-construct-quad-tree](https://github.com/ApurvSardana/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0907-koko-eating-bananas](https://github.com/ApurvSardana/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ApurvSardana/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ApurvSardana/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -205,6 +207,7 @@ Happy Coding !!
 | ------- |
 | [0090-subsets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ApurvSardana/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ApurvSardana/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
