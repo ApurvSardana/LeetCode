@@ -133,6 +133,7 @@ Happy Coding !!
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3654-minimum-array-sum](https://github.com/ApurvSardana/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ApurvSardana/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Happy Coding !!
 | [2118-maximum-earnings-from-taxi](https://github.com/ApurvSardana/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ApurvSardana/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -253,6 +256,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -308,6 +312,7 @@ Happy Coding !!
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ApurvSardana/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ApurvSardana/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
