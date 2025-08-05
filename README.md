@@ -122,6 +122,7 @@ Happy Coding !!
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ApurvSardana/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ApurvSardana/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ApurvSardana/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ApurvSardana/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ApurvSardana/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ApurvSardana/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -206,6 +207,7 @@ Happy Coding !!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ApurvSardana/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ApurvSardana/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ApurvSardana/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ApurvSardana/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -327,6 +329,7 @@ Happy Coding !!
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ApurvSardana/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/ApurvSardana/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ApurvSardana/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Design
 |  |
 | ------- |
@@ -334,6 +337,7 @@ Happy Coding !!
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ApurvSardana/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2625-increment-submatrices-by-one](https://github.com/ApurvSardana/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Bucket Sort
 |  |
