@@ -219,6 +219,7 @@ Happy Coding !!
 | ------- |
 | [0090-subsets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/ApurvSardana/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ApurvSardana/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ApurvSardana/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -229,6 +230,7 @@ Happy Coding !!
 | [0050-powx-n](https://github.com/ApurvSardana/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ApurvSardana/LeetCode/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/ApurvSardana/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ApurvSardana/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/ApurvSardana/LeetCode/tree/master/0343-integer-break) |
 | [0900-reordered-power-of-2](https://github.com/ApurvSardana/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -243,6 +245,7 @@ Happy Coding !!
 | [0060-permutation-sequence](https://github.com/ApurvSardana/LeetCode/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ApurvSardana/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ApurvSardana/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ApurvSardana/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
