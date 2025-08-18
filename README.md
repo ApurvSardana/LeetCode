@@ -110,6 +110,7 @@ Happy Coding !!
 | [0485-max-consecutive-ones](https://github.com/ApurvSardana/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
 | [0594-longest-harmonious-subsequence](https://github.com/ApurvSardana/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/ApurvSardana/LeetCode/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/ApurvSardana/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0772-construct-quad-tree](https://github.com/ApurvSardana/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0907-koko-eating-bananas](https://github.com/ApurvSardana/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -156,6 +157,7 @@ Happy Coding !!
 | [0090-subsets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ApurvSardana/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0679-24-game](https://github.com/ApurvSardana/LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ApurvSardana/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Two Pointers
 |  |
@@ -233,6 +235,7 @@ Happy Coding !!
 | [0326-power-of-three](https://github.com/ApurvSardana/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ApurvSardana/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/ApurvSardana/LeetCode/tree/master/0343-integer-break) |
+| [0679-24-game](https://github.com/ApurvSardana/LeetCode/tree/master/0679-24-game) |
 | [0900-reordered-power-of-2](https://github.com/ApurvSardana/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/ApurvSardana/LeetCode/tree/master/1448-maximum-69-number) |
