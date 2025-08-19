@@ -128,6 +128,7 @@ Happy Coding !!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ApurvSardana/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ApurvSardana/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ApurvSardana/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ApurvSardana/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/ApurvSardana/LeetCode/tree/master/2625-increment-submatrices-by-one) |
@@ -241,6 +242,7 @@ Happy Coding !!
 | [1448-maximum-69-number](https://github.com/ApurvSardana/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ApurvSardana/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ApurvSardana/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
