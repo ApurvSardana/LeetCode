@@ -135,6 +135,7 @@ Happy Coding !!
 | [2689-rearranging-fruits](https://github.com/ApurvSardana/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ApurvSardana/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ApurvSardana/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ApurvSardana/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3654-minimum-array-sum](https://github.com/ApurvSardana/LeetCode/tree/master/3654-minimum-array-sum) |
@@ -149,6 +150,7 @@ Happy Coding !!
 | [0074-search-a-2d-matrix](https://github.com/ApurvSardana/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0772-construct-quad-tree](https://github.com/ApurvSardana/LeetCode/tree/master/0772-construct-quad-tree) |
 | [2625-increment-submatrices-by-one](https://github.com/ApurvSardana/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ApurvSardana/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Backtracking
 |  |
 | ------- |
