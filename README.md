@@ -55,6 +55,7 @@ Happy Coding !!
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/ApurvSardana/LeetCode/tree/master/0343-integer-break) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ApurvSardana/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ApurvSardana/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ApurvSardana/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -118,6 +119,7 @@ Happy Coding !!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ApurvSardana/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ApurvSardana/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ApurvSardana/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/ApurvSardana/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ApurvSardana/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ApurvSardana/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -149,6 +151,7 @@ Happy Coding !!
 | [0073-set-matrix-zeroes](https://github.com/ApurvSardana/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ApurvSardana/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0772-construct-quad-tree](https://github.com/ApurvSardana/LeetCode/tree/master/0772-construct-quad-tree) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ApurvSardana/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2625-increment-submatrices-by-one](https://github.com/ApurvSardana/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ApurvSardana/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Backtracking
@@ -309,6 +312,7 @@ Happy Coding !!
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/ApurvSardana/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ApurvSardana/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ApurvSardana/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
@@ -372,4 +376,8 @@ Happy Coding !!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ApurvSardana/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/ApurvSardana/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
