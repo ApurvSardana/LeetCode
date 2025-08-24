@@ -55,6 +55,7 @@ Happy Coding !!
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/ApurvSardana/LeetCode/tree/master/0343-integer-break) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ApurvSardana/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ApurvSardana/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ApurvSardana/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -118,6 +119,7 @@ Happy Coding !!
 | [0934-bitwise-ors-of-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ApurvSardana/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ApurvSardana/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ApurvSardana/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ApurvSardana/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/ApurvSardana/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -356,6 +358,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ApurvSardana/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ApurvSardana/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/ApurvSardana/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ApurvSardana/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Design
