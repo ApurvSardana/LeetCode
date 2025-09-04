@@ -255,6 +255,7 @@ Happy Coding !!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ApurvSardana/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ApurvSardana/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/ApurvSardana/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
