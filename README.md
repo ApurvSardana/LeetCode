@@ -240,6 +240,7 @@ Happy Coding !!
 | [1067-campus-bikes-ii](https://github.com/ApurvSardana/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ApurvSardana/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ApurvSardana/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ApurvSardana/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ApurvSardana/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
@@ -358,6 +359,7 @@ Happy Coding !!
 | [0900-reordered-power-of-2](https://github.com/ApurvSardana/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ApurvSardana/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ApurvSardana/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## String Matching
 |  |
@@ -388,6 +390,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ApurvSardana/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ApurvSardana/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
