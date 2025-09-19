@@ -51,6 +51,7 @@ Happy Coding !!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3678-design-task-manager](https://github.com/ApurvSardana/LeetCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ApurvSardana/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/ApurvSardana/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ApurvSardana/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -153,6 +154,7 @@ Happy Coding !!
 | [3654-minimum-array-sum](https://github.com/ApurvSardana/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ApurvSardana/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/ApurvSardana/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Happy Coding !!
 | [1628-count-submatrices-with-all-ones](https://github.com/ApurvSardana/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2625-increment-submatrices-by-one](https://github.com/ApurvSardana/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ApurvSardana/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/ApurvSardana/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -321,6 +324,7 @@ Happy Coding !!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/ApurvSardana/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ApurvSardana/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/ApurvSardana/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ApurvSardana/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
@@ -387,6 +391,7 @@ Happy Coding !!
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ApurvSardana/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/ApurvSardana/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/ApurvSardana/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
