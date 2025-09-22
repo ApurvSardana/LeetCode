@@ -42,6 +42,7 @@ Happy Coding !!
 | [1813-maximum-erasure-value](https://github.com/ApurvSardana/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ApurvSardana/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ApurvSardana/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/ApurvSardana/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ApurvSardana/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ApurvSardana/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2340-total-appeal-of-a-string](https://github.com/ApurvSardana/LeetCode/tree/master/2340-total-appeal-of-a-string) |
@@ -135,6 +136,7 @@ Happy Coding !!
 | [1813-maximum-erasure-value](https://github.com/ApurvSardana/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ApurvSardana/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ApurvSardana/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/ApurvSardana/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ApurvSardana/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ApurvSardana/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ApurvSardana/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -304,6 +306,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
+| [2023-design-movie-rental-system](https://github.com/ApurvSardana/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/ApurvSardana/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
@@ -345,6 +348,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ApurvSardana/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2023-design-movie-rental-system](https://github.com/ApurvSardana/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ApurvSardana/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ApurvSardana/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3678-design-task-manager](https://github.com/ApurvSardana/LeetCode/tree/master/3678-design-task-manager) |
@@ -393,6 +397,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ApurvSardana/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/ApurvSardana/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/ApurvSardana/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ApurvSardana/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
