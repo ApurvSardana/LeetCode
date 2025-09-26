@@ -121,6 +121,7 @@ Happy Coding !!
 | [0485-max-consecutive-ones](https://github.com/ApurvSardana/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
 | [0594-longest-harmonious-subsequence](https://github.com/ApurvSardana/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/ApurvSardana/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/ApurvSardana/LeetCode/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/ApurvSardana/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0772-construct-quad-tree](https://github.com/ApurvSardana/LeetCode/tree/master/0772-construct-quad-tree) |
@@ -194,6 +195,7 @@ Happy Coding !!
 | [0165-compare-version-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/ApurvSardana/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/ApurvSardana/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ApurvSardana/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -201,6 +203,7 @@ Happy Coding !!
 |  |
 | ------- |
 | [0135-candy](https://github.com/ApurvSardana/LeetCode/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/ApurvSardana/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/ApurvSardana/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ApurvSardana/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -219,6 +222,7 @@ Happy Coding !!
 | [0056-merge-intervals](https://github.com/ApurvSardana/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ApurvSardana/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ApurvSardana/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/ApurvSardana/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/ApurvSardana/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/ApurvSardana/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ApurvSardana/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -236,6 +240,7 @@ Happy Coding !!
 | [0074-search-a-2d-matrix](https://github.com/ApurvSardana/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/ApurvSardana/LeetCode/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/ApurvSardana/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/ApurvSardana/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ApurvSardana/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ApurvSardana/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
