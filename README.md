@@ -58,6 +58,7 @@ Happy Coding !!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/ApurvSardana/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ApurvSardana/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/ApurvSardana/LeetCode/tree/master/0343-integer-break) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -115,6 +116,7 @@ Happy Coding !!
 | [0074-search-a-2d-matrix](https://github.com/ApurvSardana/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ApurvSardana/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ApurvSardana/LeetCode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/ApurvSardana/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/ApurvSardana/LeetCode/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/ApurvSardana/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ApurvSardana/LeetCode/tree/master/0287-find-the-duplicate-number) |
