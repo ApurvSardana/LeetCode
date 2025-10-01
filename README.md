@@ -282,6 +282,7 @@ Happy Coding !!
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/ApurvSardana/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ApurvSardana/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/ApurvSardana/LeetCode/tree/master/1642-water-bottles) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ApurvSardana/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ApurvSardana/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -385,6 +386,7 @@ Happy Coding !!
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ApurvSardana/LeetCode/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ApurvSardana/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ApurvSardana/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ApurvSardana/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
