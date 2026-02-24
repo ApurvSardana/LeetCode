@@ -12,26 +12,20 @@
 12class Solution {
 13public:
 14    int ans = 0;
-15    int bin(string &s){
-16        int n = s.length();
-17        int v = 0;
-18        for(int i = n-1; i >= 0; i--){
-19            v += (int(s[i]-'0') * int(1<<(n-i-1)));
-20        }
-21        return v;
-22    }
-23    void dfs(TreeNode* node, string num){
-24        if(!node) return;
-25        if(!node->left && !node->right){
-26            num += char('0'+node->val);
-27            ans += bin(num);
-28        }
-29        dfs(node->left,num+char('0'+node->val));
-30        dfs(node->right,num+char('0'+node->val));
-31    }
-32
-33    int sumRootToLeaf(TreeNode* root) {
-34        dfs(root,"");
-35        return ans;
-36    }
-37};
+15    void dfs(TreeNode* node, int val){
+16        if(!node) return;
+17        val <<= 1;
+18        val += node->val;
+19        if(!node->left && !node->right){ 
+20            ans += val;
+21            return;
+22        }
+23        dfs(node->left,val);
+24        dfs(node->right,val);
+25    }
+26
+27    int sumRootToLeaf(TreeNode* root) {
+28        dfs(root,0);
+29        return ans;
+30    }
+31};
