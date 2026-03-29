@@ -11,7 +11,7 @@
 11    int minCost(vector<vector<int>>& grid) {
 12        int m = grid.size(), n = grid.front().size();
 13
-14        vector<vector<vector<bool>>> vis(m, vector<vector<bool>> (n, vector<bool> ((1<<10), false)));
+14        auto vis = vector<vector<vector<bool>>> (m, vector<vector<bool>> (n, vector<bool> ((1<<10), false)));
 15
 16        queue<state> q;
 17        q.push(state(0,0,grid[0][0]));
